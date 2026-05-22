@@ -1,1 +1,2 @@
 Usuario=(whoami)
+model name	: AMD Ryzen 5 2400G with Radeon Vega Graphics
